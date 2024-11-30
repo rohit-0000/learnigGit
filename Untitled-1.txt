@@ -2,3 +2,5 @@ Learning git basics
 i will lean 
 
 adding to new branch
+
+adding to new branch2
